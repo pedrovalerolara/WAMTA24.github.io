@@ -156,18 +156,48 @@ technical_program_committee:
   - name: Markus Rampp
     org: Max Planck Computing and Data Facility (Germany)
     homepage:
+  - name: Seyong Lee
+    org: Oak Ridge National Laboratory (USA)
+    homepage:
+  - name: Seyong Lee
+    org: Oak Ridge National Laboratory (USA)
+    homepage:
+  - name: Seyong Lee
+    org: Oak Ridge National Laboratory (USA)
+    homepage:
+  - name: Seyong Lee
+    org: Oak Ridge National Laboratory (USA)
+    homepage:
+  - name: Johannes Doerfert
+    org: Lawrence Livermore National Laboratory (USA)
+    homepage:
+  - name: Olivier Aumage
+    org: Inria (France)
+    homepage:
+  - name: Stanimire Tomov
+    org: Innovative Computing Laboratory (USA)
+    homepage:
+  - name: Miwako Tsuji
+    org: RIKEN (Japan)
+    homepage:
+  - name: Raul Sirvent
+    org: Barcelona Supercomputing Center (Spain)
+    homepage:
+  - name: Pat McCormick
+    org: Los Alamos National Laboratory (USA)
+    homepage:
   
 
 technical_program_chair:
   - name:  Patrick Diehl
     org: Louisiana State University (USA)
     homepage: https://www.diehlpk.de/
-  - name: Hartmut Kaiser
-    org: Louisiana State University (USA)
-    homepage: https://www.lsu.edu/eng/cse/people/faculty/kaiser.php
-  - name: Peter Thoman
-    org: University of Innsbruck (Austria)
-    homepage: https://dps.uibk.ac.at/~petert/
+  - name: George Bosilca
+    org: Innovative Computing Laboratory (USA)
+    homepage: https://icl.utk.edu/~bosilca/
+  - name: Pedro Valero-Lara
+    org: Oak Ridge National Laboratory (USA)
+    homepage: https://www.ornl.gov/staff-profile/pedro-valero-lara
 
 webmaster:
   - name: Parsa Amini
